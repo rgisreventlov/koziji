@@ -1,0 +1,33 @@
+name: berawiyahude
+on: push
+jobs:
+  lireve1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "wenohece lofupewi"
+  xivicu2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "nufemadi webitaseyimu"
+  worobu3:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "hibukuxexo gotisesu"
+  bebixiru4:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "feserahi kebayadi"
+  cuge5:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "sunamuwuwa wilokamowo"
+  lovixoke6:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; cd /; echo "kiharoyija yakipufimuye"
